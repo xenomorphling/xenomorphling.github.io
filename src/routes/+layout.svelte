@@ -9,12 +9,12 @@
 	</h3>
 	<ul>
 		<li>
-			<a href="https://linkedin.com/in/samuel-kajava"><i class="nf nf-fa-linkedin" /></a>
+			<a href="https://www.linkedin.com/in/yury-gryunberg/"><i class="nf nf-fa-linkedin" /></a>
 		</li>
 		<li class="pink">,</li>
 		<li><a href="https://github.com/xenomorphling"><i class="nf nf-md-github" /></a></li>
 		<li class="pink">,</li>
-		<li><a href="mailto:samuelkajava@proton.me"><i class="nf nf-md-at" /></a></li>
+		<li><a href="mailto:yuriimatsyuk@gmail.com"><i class="nf nf-md-at" /></a></li>
 	</ul>
 </nav>
 

@@ -5,32 +5,18 @@
 <article>
 	<Header text="whoami" accent="green" />
 	<p class="intro">
-		I'm Samuel Kajava, a developer situated in Gothenburg, Sweden. I'm a PhD student at
-		Chalmers University of Technology.
+		Меня зовут Мацюк Юрий. Имею опыт работы более 10 лет в IT. Люблю свою работу, по-настоящему увлечен IT и технологиями, довожу свою задачи до конца, углубляюсь в процессы, насколько это возможно, получаю удовольствие от автоматизации рутинных задач.
+		Постоянно совершенствую свои навыки и обучаюсь. Не боюсь новых технологий и всегда готов к модернизации и внедрении нового.
+	</p>
+	<p> 
+		Имею высшее образование по специальности "Информационные системы и технологии"
 	</p>
 	<p>
-        Prior to my PhD studies, I have graduated from the software engineering <i>civilingenjör</i> program
-        with a bachelor's degree in software engineering and master's degree in computer science. My BSc thesis
-        covers a way of introducing performance benchmarking into CI pipelines on GitHub, with scalability in mind.
-        
-        My master thesis work introduced a fully automatic approach for detecting prototype pollution in client-side 
-		<span class="node">JavaScript</span>. 
-	</p>
-	<p>
-		I basically live in Neovim and would label my interests as language-agnostic, but most of my
-		experience lies in files which end with
-		<span class="go">.go</span>,
-		<span class="rust">.rs</span>,
-		<span class="cpp">.cpp</span>,
-		<span class="java">.java</span> and
-		<span class="node">.ts</span>.
-		I host my projects on <a href="https://github.com/xenomorphling">GitHub</a>, and will always be the
-		most up to date source of what I am working on.
+		Я увлечен тайлинговыми windows-менеджерами, эстетикой интерфейсов и оптимизацией продуктивности, а также кастомными клавиатурами.
 	</p>
 	<Header text="todo" accent="pink" />
     <p>
-        <i>I love teaching, and as any self-absorbed programmer, I want to tell everyone what I'm thinking. 
-        I'm looking into writing some blog-esque stuff where I express my thoughts about programming.</i>
+        <i>Люблю совмещать разные процессы и технологии между собой, планирую получить сертификат CKA</i>
     </p>
 </article>
 

@@ -6,13 +6,12 @@
 	<Header accent="pink" text="about me" />
 </div>
 <div class="h2">
-	<Header accent="green" text="some projects" />
+	<Header accent="green" text="Skills" />
 </div>
 <article>
 	<main>
 		<p class="intro">
-            Whenever I have time over, I enjoy playing 🎱 pool, tweaking my ❄️  NixOS system, spending time with 
-            my partner+friends, and hacking on various personal projects.
+			Читаю книги, слежу за своим здоровьем, не имею вредных привычек, занимаюсь спортом, единоборствами, люблю путешествовать. 
 		</p>
 		<p>
             As of 2025, my main goals are to do good security research, learn more about programming language design and
@@ -29,24 +28,19 @@
 	<aside>
 		<ul>
 			<li>
-				<a href="https://github.com/xenomorphling/maker" class="rust">maker</a> - a Makefile generator for C/C++
-				projects. Nice for small projects, I use it for generating boilerplate Makefiles in my projects.
+				Linux
 			</li>
 			<li>
-				<a href="https://apskrift.com" class="node">apskrift</a> - typing practice website written in
-				vanilla TS with node.
+				Kubernetes
 			</li>
 			<li>
-				<a href="https://github.com/xenomorphling/nadja" class="node">nadja</a> - Spotify playlist generator
-				created with React.
+				Jenkins
 			</li>
 			<li>
-				<a href="https://github.com/xenomorphling/ftp" class="cpp">ftp</a> - an FTP client written from scratch
-				in C++.
+				Ansible
 			</li>
 			<li>
-				<a href="https://github.com/xenomorphling/tda596-http" class="go">http</a> - static http server with
-				proxy written from scratch in Go.
+				Helm
 			</li>
 			<li>More on <a href="https://github.com/xenomorphling">GitHub</a> :)</li>
 		</ul>
